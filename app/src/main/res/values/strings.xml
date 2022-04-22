@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">DesvioPadrao</string>
+	<string name="resultado">Resultado: %1$f</string>
+</resources>
